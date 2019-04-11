@@ -1,0 +1,2 @@
+[@react.component]
+[@bs.module]
